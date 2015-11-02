@@ -1,0 +1,10 @@
+<div>
+    <a href="#/slide{{prevSlide}}">
+        <button type="button" class="btn btn-lg btn-default" id="prev" ng-click='prevClick()'>Prev</button>
+    </a>
+    <button type="button" class="btn btn-lg btn-default" id="play" ng-click='playClick()'>{{playLabel}}</button>
+    <a href="#/slide{{nextSlide}}">
+        <button type="button" class="btn btn-lg btn-default" id="next" ng-click='nextClick()'>Next</button>
+    </a>
+    <input type="text" ng-model="seconds"> seconds
+</div>
