@@ -87,7 +87,7 @@
   -webkit-box-shadow: none;
   box-shadow: none;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-default #main-navbar .navbar-header {
     background: #ffffff;
   }
@@ -186,7 +186,7 @@
     border-right: 1px solid #f1f1f1;
   }
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-default.right-to-left #main-navbar .right > .navbar-nav > li {
     border-right: 1px solid #f1f1f1;
     border-left: none;
@@ -270,7 +270,7 @@
 .theme-default.mme #main-menu .mm-dropdown.open > a {
   color: #fff;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-default #main-menu .mm-dropdown.open > a {
     color: #fff;
   }
@@ -313,7 +313,7 @@
 .theme-default .tl-body:before {
   border-color: transparent #e2e2e2 transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-default .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #e2e2e2;
   }
@@ -996,7 +996,7 @@
   -webkit-box-shadow: none;
   box-shadow: none;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-asphalt #main-navbar #main-menu-toggle {
     background: #35ae98;
   }
@@ -1108,7 +1108,7 @@
     border-right: 1px solid #292929;
   }
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-asphalt.right-to-left #main-navbar .right > .navbar-nav > li {
     border-right: 1px solid #292929;
     border-left: none;
@@ -1198,7 +1198,7 @@
 .theme-asphalt.mme #main-menu .mm-dropdown.open > a {
   color: #fff;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-asphalt #main-menu .mm-dropdown.open > a {
     color: #fff;
   }
@@ -1236,7 +1236,7 @@
 .theme-asphalt .tl-body:before {
   border-color: transparent #e2e2e2 transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-asphalt .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #e2e2e2;
   }
@@ -1919,7 +1919,7 @@
   -webkit-box-shadow: none;
   box-shadow: none;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-purple-hills #main-navbar #main-menu-toggle {
     background: #9577cd;
   }
@@ -2031,7 +2031,7 @@
     border-right: 1px solid #252832;
   }
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-purple-hills.right-to-left #main-navbar .right > .navbar-nav > li {
     border-right: 1px solid #252832;
     border-left: none;
@@ -2121,7 +2121,7 @@
 .theme-purple-hills.mme #main-menu .mm-dropdown.open > a {
   color: #fff;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-purple-hills #main-menu .mm-dropdown.open > a {
     color: #fff;
   }
@@ -2159,7 +2159,7 @@
 .theme-purple-hills .tl-body:before {
   border-color: transparent #e2e2e2 transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-purple-hills .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #e2e2e2;
   }
@@ -2875,7 +2875,7 @@
 .theme-adminflare #main-navbar form.navbar-form .form-control::-webkit-input-placeholder {
   color: #2565af;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-adminflare #main-navbar .main-navbar-collapse {
     background: none;
     border-top: none;
@@ -3033,7 +3033,7 @@
 .theme-adminflare.mme #main-menu .mm-dropdown.open > a {
   color: #fff;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-adminflare #main-menu .mm-dropdown.open > a {
     color: #fff;
   }
@@ -3066,7 +3066,7 @@
 .theme-adminflare .tl-body:before {
   border-color: transparent #d6d6d6 transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-adminflare .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #d6d6d6;
   }
@@ -3753,7 +3753,7 @@
   background: #fff;
   border-color: #f65d35;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-dust #main-navbar .navbar-header {
     background: #f65d35;
   }
@@ -3914,7 +3914,7 @@
 .theme-dust.mme #main-menu .mm-dropdown.open > a {
   color: #fff;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-dust #main-menu .mm-dropdown.open > a {
     color: #fff;
   }
@@ -3955,7 +3955,7 @@
 .theme-dust .tl-body:before {
   border-color: transparent #d6d6d6 transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-dust .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #d6d6d6;
   }
@@ -4640,7 +4640,7 @@
   background: #fff;
   border-color: #1aaada;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-frost #main-navbar .navbar-header {
     background: #1aaada;
   }
@@ -4804,7 +4804,7 @@
 .theme-frost.mme #main-menu .mm-dropdown.open > a {
   color: #fff !important;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-frost #main-menu .mm-dropdown.open > a {
     color: #fff;
   }
@@ -4865,7 +4865,7 @@
 .theme-frost .tl-body:before {
   border-color: transparent #cfd5d7 transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-frost .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #cfd5d7;
   }
@@ -5546,7 +5546,7 @@
   border-color: #fff;
   border-radius: 3px;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-fresh #main-navbar #main-navbar-collapse {
     background: none;
   }
@@ -5765,7 +5765,7 @@
 .theme-fresh.mme #main-menu .mm-dropdown.open > a {
   border-bottom: 1px solid #4d5156;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-fresh #main-menu .mm-dropdown.open > a {
     color: #fff;
     border-bottom: 1px solid #4d5156;
@@ -5800,7 +5800,7 @@
 .theme-fresh .tl-body:before {
   border-color: transparent #dddddd transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-fresh .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #dddddd;
   }
@@ -6485,7 +6485,7 @@
   border-color: #fff;
   border-radius: 3px;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-silver #main-navbar #main-navbar-collapse {
     background: none;
   }
@@ -6705,7 +6705,7 @@
 .theme-silver.mme #main-menu .mm-dropdown.open > a {
   border-bottom: 1px solid #3d3d3d;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-silver #main-menu .mm-dropdown.open > a {
     color: #fff;
     border-bottom: 1px solid #3d3d3d;
@@ -6746,7 +6746,7 @@
 .theme-silver .tl-body:before {
   border-color: transparent #e4e4e4 transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-silver .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #e4e4e4;
   }
@@ -7418,7 +7418,7 @@
   border-color: #3d4a5d;
   border-radius: 999999px;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-clean #main-navbar li + li,
   .theme-clean #main-navbar .nav + .nav,
   .theme-clean #main-navbar .nav + .right {
@@ -7511,7 +7511,7 @@
 .theme-clean.mme #main-menu .mm-dropdown.open > a {
   color: #1e2125 !important;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-clean #main-menu .mm-dropdown.open > a {
     color: #1e2125;
   }
@@ -7572,7 +7572,7 @@
 .theme-clean .tl-body:before {
   border-color: transparent #dcdcdc transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-clean .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #dcdcdc;
   }
@@ -8244,7 +8244,7 @@
   border-color: #eeeeee;
   border-radius: 999999px;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-white #main-navbar li + li,
   .theme-white #main-navbar .nav + .nav,
   .theme-white #main-navbar .nav + .right {
@@ -8329,7 +8329,7 @@
 .theme-white.mme #main-menu .mm-dropdown.open > a {
   color: #414549 !important;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-white #main-menu .mm-dropdown.open > a {
     color: #414549;
   }
@@ -8394,7 +8394,7 @@
 .theme-white .tl-body:before {
   border-color: transparent #e5e5e5 transparent transparent;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .theme-white .timeline.centered .tl-entry.left .tl-body:before {
     border-color: transparent transparent transparent #e5e5e5;
   }

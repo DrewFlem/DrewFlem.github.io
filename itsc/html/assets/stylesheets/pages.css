@@ -140,7 +140,7 @@
   padding-bottom: 20px;
   padding-top: 20px;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .page-invoice .invoice {
     padding: 0 40px;
   }
@@ -181,7 +181,7 @@ body.page-invoice.page-invoice-print * {
   color: #000000 !important;
 }
 .page-invoice.page-invoice-print .invoice {
-  min-width: 801px;
+  min-width: 1197px;
   padding: 0 40px;
 }
 .page-invoice.page-invoice-print .invoice hr {
@@ -361,7 +361,7 @@ body.page-invoice.page-invoice-print * {
 .ie8 .page-pricing .page-pricing-header .bg-overlay {
   display: none !important;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .page-pricing .plans-panel {
     background: #fafafa;
     border: 1px solid #e4e4e4;
@@ -613,7 +613,7 @@ html body.page-signin {
     width: auto;
   }
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .page-signin .signin-container {
     display: table;
     margin: 80px auto;
@@ -1433,7 +1433,7 @@ html body.page-signup {
 .tl-wide {
   margin: 0 -15px;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .timeline:before,
   .timeline:after {
     left: 100px;
@@ -1964,7 +1964,7 @@ html body.page-signup {
   margin-top: 30px;
   margin-bottom: 30px;
 }
-@media (min-width: 801px) {
+@media (min-width: 1197px) {
   .page-profile .left-col {
     float: left;
     width: 220px;

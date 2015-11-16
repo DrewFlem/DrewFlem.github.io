@@ -1,10 +1,9 @@
 [
-	{
-		"username": "serebro_admin",
-		"password": "min-irf-yaW-Wok-urN-oR-hAuv-yAnd-Yib"
-	},
-	{
-		"division": "Summary",
+    {
+        "username": "serebro_admin",
+        "password": "min-irf-yaW-Wok-urN-oR-hAuv-yAnd-Yib"
+    },
+	{  "division": "Summary",
         "units": [
             {
                 "name": "Digital Media",
