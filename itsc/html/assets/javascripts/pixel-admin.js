@@ -1416,7 +1416,7 @@ function getPageTemplate(columnSize, dates) {
         tableContent += '<div class="table-header clearfix">';
         tableContent += '<span class="header1 header_caption">' + CURRENT_ID.title + ' Summary</span>';
         tableContent += '<div class="float_data_right"><span class="pad-top-data float_data_left pad-left-data"><label for="from">Date Range From:&nbsp;</label><input type="text" class="dater" id="from" size="10" name="from" value="' + dates.pastMonth + '"></span><span class="pad-top-data float_data_left pad-left-data"><label for="to">&nbsp;To:&nbsp;</label><input type="text" class="dater" id="to" size="10" name="to" value="' + dates.today + '"></span><span class="pad-top-data pad-left-data float_data_left"><button id="newRanger" class="btn btn-info btn">Update</button> &nbsp;<button id="dateReset" class="btn btn-info btn">Reset</button></span></div></div>';
-        tableContent += '<table class="table table-bordered" id="' + CURRENT_ID.tableID + '">';
+        tableContent += '<table class="table table-bordered smalltext" id="' + CURRENT_ID.tableID + '">';
         tableContent += '<thead><tr><th>Product</th><th class="hidesmall"></th><th class="cntr">Target</th><th>Availability</th><th class="cntr">P1</th><th class="hidesmall">Avail Trend</th><th class="cntr">Target</th><th>Performance</th><th class="hidesmall">Perf Trend</th><th>Notes</th><th class="hidesmall">Trending</th></tr></thead>';
         tableContent += '<tbody></tbody></table></div><div class="table-info">NOTE: Hover on the Product to get the description of the test </div></div>';
     }

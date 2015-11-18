@@ -4855,6 +4855,60 @@ body:after,
     display: none;
   }
 }
+@media only screen and (max-width: 684px) {
+  .smalltext {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 684px) {
+  #NorthAmericaAuctions-table {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 684px) {
+  #incidents-table,
+  #service-now-notes-table {
+    font-size: 12px;
+  }
+}
+@media only screen and (max-width: 684px) {
+  #notes-table {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 684px) {
+  #trending-table {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .page-header {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+@media only screen and (max-width: 684px) {
+  .pad-left-data {
+    padding-left: 0;
+  }
+}
+@media only screen and (max-width: 684px) {
+  #to {
+    margin-right: 30px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #newRanger,
+  #dateReset {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
+@media only screen and (max-width: 775px) {
+  .div-as-cell {
+    width: 47%;
+  }
+}
 .main-navbar-fixed #main-navbar {
   position: fixed !important;
 }
